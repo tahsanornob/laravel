@@ -14,7 +14,7 @@
 git clone https://github.com/tahsanornob/project.git
 cd project
 composer install
-npm install</pre>
+php artisan serve</pre>
             </div>
 
             <div class="bg-gray-800/50 p-6 rounded-xl border border-gray-700">
